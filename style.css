@@ -25,6 +25,11 @@ th, td {
     background-color: #ccffff;
 }
 
+footer {
+    text-align: center;
+    background-color: #66ffff;
+}
+
 .table-heading {
     background-color: #66ffff;
     font-weight: 900;
@@ -37,3 +42,4 @@ th, td {
     margin-right: auto;
     display: table;
 }
+
