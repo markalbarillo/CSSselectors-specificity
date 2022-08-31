@@ -7,10 +7,17 @@ body {
     background-color: lightcyan;
 }
 
-h1,h2 {
+h1 {
     text-align: center;
     font-size: xx-large;
+    background-color: #66ffff;
 }
+
+h2 {
+    text-align: center;
+    font-size:x-large;
+}
+
 
 th, td {
     border: 1px solid blue;
